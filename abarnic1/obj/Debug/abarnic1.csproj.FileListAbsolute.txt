@@ -1,0 +1,11 @@
+D:\porojects\abarnic1\abarnic1\abarnic1\bin\Debug\abarnic1.exe.config
+D:\porojects\abarnic1\abarnic1\abarnic1\bin\Debug\abarnic1.exe
+D:\porojects\abarnic1\abarnic1\abarnic1\bin\Debug\abarnic1.pdb
+D:\porojects\abarnic1\abarnic1\abarnic1\obj\Debug\abarnic1.csprojAssemblyReference.cache
+D:\porojects\abarnic1\abarnic1\abarnic1\obj\Debug\abarnic1.Form1.resources
+D:\porojects\abarnic1\abarnic1\abarnic1\obj\Debug\abarnic1.Form2.resources
+D:\porojects\abarnic1\abarnic1\abarnic1\obj\Debug\abarnic1.Properties.Resources.resources
+D:\porojects\abarnic1\abarnic1\abarnic1\obj\Debug\abarnic1.csproj.GenerateResource.cache
+D:\porojects\abarnic1\abarnic1\abarnic1\obj\Debug\abarnic1.csproj.CoreCompileInputs.cache
+D:\porojects\abarnic1\abarnic1\abarnic1\obj\Debug\abarnic1.exe
+D:\porojects\abarnic1\abarnic1\abarnic1\obj\Debug\abarnic1.pdb
